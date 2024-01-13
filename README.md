@@ -96,8 +96,8 @@ Here are some ideas to get you started:
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
 <!--       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a> -->
 <!--       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a> -->
-      <a href="#"><img alt="Ubunto Linux" src="https://img.shields.io/badge/Ubunto%20Linux-1793D1.svg?logo=ubunto-linux&logoColor=white"></a>
-      <a href="#"><img alt="Redhat Linux" src="https://img.shields.io/badge/Redhat%20Linux-1793D1.svg?logo=Redhat-linux&logoColor=white"></a>
+<!--       <a href="#"><img alt="Ubunto Linux" src="https://img.shields.io/badge/Ubunto%20Linux-1793D1.svg?logo=ubunto-linux&logoColor=white"></a> -->
+<!--       <a href="#"><img alt="Redhat Linux" src="https://img.shields.io/badge/Redhat%20Linux-1793D1.svg?logo=Redhat-linux&logoColor=white"></a> -->
       <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
 <!--       <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a> -->
       <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
