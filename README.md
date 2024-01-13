@@ -1,5 +1,6 @@
+# BaraSedih11
 ### Hi there 👋
-
+<p> I'm 4th year computer engineer studing at Najah National Uneversity (NNU) </p>
 <!--
 **BaraSedih11/BaraSedih11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
