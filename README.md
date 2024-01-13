@@ -39,7 +39,8 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="Assembly" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" />
+<img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+<br />
 <br />
   <p>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
