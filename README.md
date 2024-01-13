@@ -37,8 +37,6 @@ Here are some ideas to get you started:
 <br />
 
 <p>
-      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Bash"><i class="devicon-bash-plain"></i></a>
-      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Markdown"><img alt="Markdown" src="https://custom-icon-badges.demolab.com/badge/Markdown-525252.svg?logo=markdown-hex&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ajavascript"><img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ac"><img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Acpp"><img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /></a>
@@ -47,12 +45,13 @@ Here are some ideas to get you started:
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ajava"><img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <!--       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a> -->
-      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Aphp"><img align="left" alt="Php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a>
 <!--       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aprolog"><img alt="Prolog" src="https://custom-icon-badges.demolab.com/badge/Prolog-E61B23.svg?logo=swi-prolog&logoColor=white"></a> -->
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Apython"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Aassembly"><img alt="8086 Assembly & MIPS" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white">
+      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Bash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
   </p>
