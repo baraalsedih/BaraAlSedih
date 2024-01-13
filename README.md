@@ -96,7 +96,8 @@ Here are some ideas to get you started:
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
 <!--       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a> -->
 <!--       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a> -->
-      <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
+      <a href="#"><img alt="Ubunto Linux" src="https://img.shields.io/badge/Ubunto%20Linux-1793D1.svg?logo=ubunto-linux&logoColor=white"></a>
+      <a href="#"><img alt="Redhat Linux" src="https://img.shields.io/badge/Redhat%20Linux-1793D1.svg?logo=Redhat-linux&logoColor=white"></a>
       <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
 <!--       <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a> -->
       <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
@@ -108,11 +109,11 @@ Here are some ideas to get you started:
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
 <!--       <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a> -->
-      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+<!--       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a> -->
       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
 <!--       <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a> -->
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-      <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
+<!--       <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a> -->
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
@@ -125,9 +126,9 @@ Here are some ideas to get you started:
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <a href="https://github.com/BaraSedih11/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="BaraSedih11's streak" src="https://github-readme-streak-stats-9m8ugfa77-BaraSedih11.vercel.app/?user=BaraSedih11&theme=monokai-metallian&hide_border=true"/>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
@@ -136,31 +137,31 @@ Here are some ideas to get you started:
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="BaraSedih11's Github Stats" src="https://BaraSedih11-github-readme-stats.vercel.app/api/?username=BaraSedih11&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="BaraSedih11's Top Languages" src="https://BaraSedih11-github-readme-stats.vercel.app/api/top-langs/?username=BaraSedih11&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="BaraSedih11's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=BaraSedih11&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   <h3>⚡ Recent GitHub Activity</h3>
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#635](https://github.com/DenverCoder1/github-readme-streak-stats/issues/635) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. ❗️ Closed issue [#632](https://github.com/DenverCoder1/github-readme-streak-stats/issues/632) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🎉 Merged PR [#633](https://github.com/DenverCoder1/github-readme-streak-stats/pull/633) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. ❗️ Closed issue [#631](https://github.com/DenverCoder1/github-readme-streak-stats/issues/631) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. ❗️ Closed issue [#620](https://github.com/DenverCoder1/github-readme-streak-stats/issues/620) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 🗣 Commented on [#635](https://github.com/BaraSedih11/github-readme-streak-stats/issues/635) in [BaraSedih11/github-readme-streak-stats](https://github.com/BaraSedih11/github-readme-streak-stats)
+2. ❗️ Closed issue [#632](https://github.com/BaraSedih11/github-readme-streak-stats/issues/632) in [BaraSedih11/github-readme-streak-stats](https://github.com/BaraSedih11/github-readme-streak-stats)
+3. 🎉 Merged PR [#633](https://github.com/BaraSedih11/github-readme-streak-stats/pull/633) in [BaraSedih11/github-readme-streak-stats](https://github.com/BaraSedih11/github-readme-streak-stats)
+4. ❗️ Closed issue [#631](https://github.com/BaraSedih11/github-readme-streak-stats/issues/631) in [BaraSedih11/github-readme-streak-stats](https://github.com/BaraSedih11/github-readme-streak-stats)
+5. ❗️ Closed issue [#620](https://github.com/BaraSedih11/github-readme-streak-stats/issues/620) in [BaraSedih11/github-readme-streak-stats](https://github.com/BaraSedih11/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
   <h3>🌟 Sponsors</h3>
 
   <!-- https://github.com/lowlighter/metrics/blob/master/source/plugins/sponsors/README.md -->
-  <a href="https://github.com/sponsors/DenverCoder1/"><img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/metrics-sponsors.svg" /></a>
+  <a href="https://github.com/sponsors/BaraSedih11/"><img src="https://raw.githubusercontent.com/BaraSedih11/DenverCoder1/main/metrics-sponsors.svg" /></a>
 
 </details>
