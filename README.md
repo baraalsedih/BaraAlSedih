@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br />
 
 <p>
-      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Bash"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" /></a>
+      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Bash"><img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" /></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Markdown"><img alt="Markdown" src="https://custom-icon-badges.demolab.com/badge/Markdown-525252.svg?logo=markdown-hex&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ajavascript"><img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ac"><img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
