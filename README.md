@@ -122,21 +122,7 @@ Here are some ideas to get you started:
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
-  <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/BaraSedih11/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="BaraSedih11's streak" src="https://github-readme-streak-stats-9m8ugfa77-BaraSedih11.vercel.app/?user=BaraSedih11&theme=monokai-metallian&hide_border=true"/>
-    </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-  </p>
-
   <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
   
   <br/>
 
@@ -147,8 +133,5 @@ Here are some ideas to get you started:
   <h3>⚡ Recent GitHub Activity</h3>
 
 
-  <h3>🌟 Sponsors</h3>
-
-  <a href="https://github.com/sponsors/BaraSedih11/"><img src="https://raw.githubusercontent.com/BaraSedih11/DenverCoder1/main/metrics-sponsors.svg" /></a>
 
 </details>
