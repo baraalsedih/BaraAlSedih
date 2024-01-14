@@ -94,7 +94,7 @@ Here are some ideas to get you started:
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <!--       <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a> -->
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-      <a href="#"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FB542B?logo=leetcode&logoColor=white"></a>
+      <a href="https://leetcode.com/baraalsedih/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FB542B?logo=leetcode&logoColor=white"></a>
   </p>
 </details>
 
