@@ -119,7 +119,7 @@
     <br>
     <br>
     <img width=390 src="https://github-readme-stats-private-theta.vercel.app/api?username=BaraSedih11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barasedih11&show_icons=true&locale=en&hide=CSS&layout=compact&theme=react&exclude_repo=github-readme-stats-private" alt="barasedih11" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barasedih11&show_icons=true&locale=en&&layout=compact&theme=react&exclude_repo=github-readme-stats-private" alt="barasedih11" />
 
     
 <br/>
