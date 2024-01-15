@@ -38,6 +38,8 @@
 
 <br>
 
+<hr/>
+
 <details> 
   <summary><h2>🧰 Languages and Tools:</h2></summary>
 <br>
@@ -108,6 +110,7 @@
   </p>
 </details>
 
+<br>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
