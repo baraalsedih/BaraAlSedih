@@ -42,7 +42,7 @@
   <summary><h2>🧰 Languages and Tools:</h2></summary>
 <br>
 
-<p>
+<div>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Aassembly"><img alt="8086 Assembly & MIPS" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white">
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Bash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
@@ -58,21 +58,18 @@
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
-  </p>
+  </div>
 
     
-  <h3>🛠️ Frameworks and Libraries </h3> 
-    
+  <h3>🛠️ Frameworks and Libraries </h3>  
   
-      
-  #### And more:
    <p>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<!--       <a href="#"><img alt="Firebase" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/firebase/firebase-ar21.svg?logo=firebase&logoColor=%2361DAFB"></a> -->
+<!--       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="" alt="firebase" width="40" height="40"/> </a>  -->
       <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
-      <a href="#"><img alt="Jest" src="https://custom-icon-badges.demolab.com/badge/Jest-25A162.svg?logo=check-circle&logoColor=white"></a>
       <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/Opencv-013243.svg?logo=opencv&logoColor=white"></a>
