@@ -28,7 +28,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/BaraSedih11" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+    <a href="https://leetcode.com/baraalsedih/" target="_blank">
+     <img src="https://img.shields.io/badge/LeetCode-3C3C3D?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
@@ -122,6 +125,13 @@
 
 <div align="center">
     <a href="https://github.com/BaraSedih11"><img src="https://streak-stats.demolab.com?user=BaraSedih11&theme=react&hide_border=true&card_width=600" alt="GitHub Streak" /></a>
+    <br>
+    <br>
+    <img width=390 src="https://github-readme-stats-private-theta.vercel.app/api?username=BaraSedih11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+    
+<br/>
+
 </div>
 <br/><br/>
 
@@ -137,6 +147,8 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="BaraSedih11's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=BaraSedih11&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  
 
   <h3>⚡ Recent GitHub Activity</h3>
 
