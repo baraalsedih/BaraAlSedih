@@ -6,6 +6,8 @@
 
 <h3 align="center">A 4th year computer engineer student from Palestine </h3>
 
+<br>
+
 <div align="center">
  
  🔭 I’m currently working on **a platform**
