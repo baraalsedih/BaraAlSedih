@@ -115,11 +115,12 @@
 <br>
 
 <div align="center">
-    <a href="https://github.com/BaraSedih11"><img src="https://streak-stats.demolab.com?user=BaraSedih11&theme=react&hide_border=true&card_width=600" alt="GitHub Streak" /></a>
+    <a href="https://github.com/BaraSedih11"><img src="https://streak-stats.demolab.com?user=BaraSedih11&theme=react&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
     <br>
     <br>
     <img width=390 src="https://github-readme-stats-private-theta.vercel.app/api?username=BaraSedih11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barasedih11&langs_count=20&show_icons=true&locale=en&layout=compact&theme=react&exclude_repo=github-readme-stats-private" alt="barasedih11" />
+    <br><br>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=barasedih11&langs_count=20&show_icons=true&locale=en&layout=compact&theme=react&exclude_repo=github-readme-stats-private" alt="barasedih11" />
 
     
 <br/>
