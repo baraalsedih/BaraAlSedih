@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2>🧰 My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-### 🧰 Tools & Languages
+### 🛠️ Tools & Languages 🛠️
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   </p>
 
     
-  <h3>🧰 Frameworks and Libraries</h3>
+  <h3>🔦 Frameworks and Libraries 🔦</h3> 
 
   <p>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
