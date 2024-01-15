@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **MERN stack and more...**
 
-💬 Ask me about **MERN stack problem solving questions... or any thing [here](https://github.com/BaraSedih11/BaraSedih11/issues)**
+💬 Ask me about **MERN stack, problem solving questions... or any thing [here](https://github.com/BaraSedih11/BaraSedih11/issues)**
 
 <!--⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** -->
 
