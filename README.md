@@ -43,7 +43,7 @@
 <br>
 
 <div>
-      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Aassembly"><img alt="8086 Assembly & MIPS" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white">
+      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Aassembly"><img alt="8086 Assembly & MIPS" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Bash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
