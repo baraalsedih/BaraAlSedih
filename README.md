@@ -120,7 +120,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
    
-[![GitHub Streak](https://streak-stats.demolab.com?user=BaraSedih11&theme=react&hide_border=true&card_width=1000)](https://git.io/streak-stats)
+<a href="https://github.com/BaraSedih11"><img src="https://streak-stats.demolab.com?user=BaraSedih11&theme=react&hide_border=true&card_width=1000" alt="GitHub Streak" /></a>
+
 <br/><br/>
 
 <hr/>
