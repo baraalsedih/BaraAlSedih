@@ -115,6 +115,16 @@
   </p>
 </details>
 
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+   
+[![GitHub Streak](https://streak-stats.demolab.com?user=BaraSedih11&theme=react&hide_border=true&card_width=1000)](https://git.io/streak-stats)
+<br/><br/>
+
+<hr/>
+
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
