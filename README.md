@@ -6,27 +6,39 @@
 
 <h3 align="center">A 4th year computer engineer student from Palestine </h3>
 
-<!--
-**BaraSedih11/BaraSedih11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+ 
+ 🔭 I’m currently working on **a platform**
+ 
+ 🌱 I’m currently learning **MERN stack and more...**
 
-Here are some ideas to get you started:
+💬 Ask me about **MERN stack problem solving questions... or any thing [here](https://github.com/BaraSedih11/BaraSedih11/issues)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** -->
 
+<br>
+
+ </div>
+
+<div align="center"> 
+  <a href="mailto:baraalsedih@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/bara-alsedih-24967b296/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/BaraSedih11" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+<br>
 
 <details> 
   <summary><h2>🧰 My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-### 🛠️ Tools & Languages 🛠️
+### 🛠️ Tools & Languages 
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -53,7 +65,7 @@ Here are some ideas to get you started:
   </p>
 
     
-  <h3>🔦 Frameworks and Libraries 🔦</h3> 
+  <h3>🛠️ Frameworks and Libraries </h3> 
 
   <p>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
