@@ -1,4 +1,4 @@
-# BaraSedih11
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BaraSedih11.BaraSedih11" />
 ### Hi there 👋
 <p> I'm 4th year computer engineer studing at Najah National Uneversity (NNU) / Nablus / Palestine </p>
 <!--
