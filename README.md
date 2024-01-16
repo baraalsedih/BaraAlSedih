@@ -115,7 +115,7 @@
 <br>
 
 <div align="center">
-    <a href="https://github.com/BaraSedih11"><img src="https://streak-stats.demolab.com?user=BaraSedih11&theme=react&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
+    <img src="https://streak-stats.demolab.com?user=BaraSedih11&theme=react&hide_border=true&card_width=500" alt="GitHub Streak" />
     <br>
     <br>
     <img width=390 src="https://github-readme-stats-private-theta.vercel.app/api?username=BaraSedih11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
