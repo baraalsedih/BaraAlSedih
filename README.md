@@ -70,6 +70,7 @@
 <!--       <a href="#"><img alt="Firebase" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/firebase/firebase-ar21.svg?logo=firebase&logoColor=%2361DAFB"></a> -->
 <!--       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="" alt="firebase" width="40" height="40"/> </a>  -->
       <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
+      <a href="#"><img alt="Pytest" src="https://custom-icon-badges.demolab.com/badge/Pytest-14354C.svg?logo=pytest&logoColor=white"></a>
       <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/Opencv-013243.svg?logo=opencv&logoColor=white"></a>
