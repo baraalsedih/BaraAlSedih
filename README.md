@@ -64,7 +64,7 @@
   <h3>🛠️ Frameworks and Libraries </h3>  
   
    <p>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+      <a href="https://getbootstrap.com"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 <!--       <a href="#"><img alt="Firebase" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/firebase/firebase-ar21.svg?logo=firebase&logoColor=%2361DAFB"></a> -->
