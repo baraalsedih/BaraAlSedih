@@ -48,7 +48,7 @@
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-20232a.svg?logo=java&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -72,9 +72,9 @@
       <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
       <a href="#"><img alt="Pytest" src="https://custom-icon-badges.demolab.com/badge/Pytest-14354C.svg?logo=pytest&logoColor=white"></a>
       <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-      <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/Opencv-013243.svg?logo=opencv&logoColor=white"></a>
-      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-013243.svg?logo=pandas&logoColor=white"></a>
+      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-007396.svg?logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/Opencv-000000.svg?logo=opencv&logoColor=white"></a>
+      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-03599C.svg?logo=pandas&logoColor=white"></a>
       
   </p>
 
