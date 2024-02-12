@@ -74,6 +74,7 @@
       <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/Opencv-013243.svg?logo=opencv&logoColor=white"></a>
+      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-013243.svg?logo=pandas&logoColor=white"></a>
       
   </p>
 
