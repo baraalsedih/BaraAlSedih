@@ -33,11 +33,10 @@
   </a>
     <br><br>
 </div>
-
 <hr/>
 
-<details> 
-  <summary><h2>🧰 Languages and Tools:</h2></summary>
+<details>
+    <summary><h2>🧰 Languages and Tools:</h2></summary>
 <br>
 
 <div>
@@ -65,6 +64,7 @@
       <a href="https://getbootstrap.com"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-ffffff.svg?logo=flask&logoColor=%23000000"></a>
 <!--       <a href="#"><img alt="Firebase" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/firebase/firebase-ar21.svg?logo=firebase&logoColor=%2361DAFB"></a> -->
 <!--       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="" alt="firebase" width="40" height="40"/> </a>  -->
       <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
@@ -83,6 +83,7 @@
       &nbsp&nbsp<a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="60" height="60"/></a> 
       &nbsp&nbsp<a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></a> 
       &nbsp&nbsp<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/></a> 
+      &nbsp&nbsp<a href="https://www.sqlite.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="60" height="60"/></a> 
   </div>
 
   <h3>💻 Software and Tools</h3>
