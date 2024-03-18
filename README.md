@@ -124,8 +124,10 @@
     <img src="https://github-readme-stats-private-theta.vercel.app/api/top-langs?username=barasedih11&langs_count=8&hide=css,html,pug&show_icons=true&locale=en&layout=compact&theme=react&exclude_repo=github-readme-stats-private" alt="barasedih11" />
     &nbsp
     <a style="marign-left:20px;" href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65b157d90c54812283315e35?variant=dark" alt="roadmap.sh"/></a>    
-<br/>
-
+<br />
+<br />
+    
+[![BaraSedih's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BaraSedih11&theme=react)](https://github.com/BaraSedih11/github-readme-activity-graph)
 </div>
 <br/><br/>
 
