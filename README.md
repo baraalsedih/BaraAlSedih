@@ -128,7 +128,7 @@
     <br>
     <img width=390 src="https://github-readme-stats-private-theta.vercel.app/api?username=BaraSedih11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <br><br>
-    <img src="https://github-readme-stats-private-theta.vercel.app/api/top-langs?username=barasedih11&langs_count=8&hide=css,html,pug&show_icons=true&locale=en&layout=compact&theme=react&exclude_repo=github-readme-stats-private" alt="barasedih11" />
+    <img src="https://github-readme-stats-private-theta.vercel.app/api/top-langs?username=barasedih11&langs_count=8&hide=css,html,pug,Cherkin&show_icons=true&locale=en&layout=compact&theme=react&exclude_repo=github-readme-stats-private" alt="barasedih11" />
     &nbsp
     <a style="marign-left:20px;" href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65b157d90c54812283315e35?variant=dark&roadmaps=backend%2Cfrontend%2Cdata-analyst%2Csql" alt="roadmap.sh"/></a>    
 <br />
