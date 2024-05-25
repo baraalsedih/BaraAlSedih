@@ -24,7 +24,9 @@
     <a href="https://www.facebook.com/bara.sedih.77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
     <a href="https://www.instagram.com/bara_i_sedih/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
     <a href="https://leetcode.com/baraalsedih/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+     <a href="https://hackerrank/12010060/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
     <a href="https://www.datacamp.com/portfolio/baraalsedih" target="blank"><img align="center" width=30px src="https://github.com/BaraSedih11/BaraSedih11/assets/98843912/de9273c2-bd45-451a-9874-911979cd2894" alt="datacamp" height="30" width="40" /></a>
+     
 </div>
 
 <br>
