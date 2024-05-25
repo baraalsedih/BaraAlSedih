@@ -126,26 +126,25 @@
 
 <details>
     <summary><h2>📊 Stats and Activity</h2></summary>
-
-<div align="center">
-<!--     <img src="https://streak-stats.demolab.com?user=BaraSedih11&theme=react&hide_border=true&card_width=500" alt="GitHub Streak" /> -->
-<!--     <img src="https://github-readme-stats-private-theta.vercel.app?user=BaraSedih11&theme=react&hide_border=true&card_width=500" alt="GitHub Streak" /> -->
-    <br>
-    <br>
-    <img width=390 src="https://github-readme-stats-private-theta.vercel.app/api?username=BaraSedih11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <br><br>
-    <img src="https://github-readme-stats-private-theta.vercel.app/api/top-langs?username=barasedih11&langs_count=8&hide=css,html,pug,Gherkin&show_icons=true&locale=en&layout=compact&theme=react&exclude_repo=github-readme-stats-private" alt="barasedih11" />
-    &nbsp
-    <a style="marign-left:20px;" href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65b157d90c54812283315e35?variant=dark&roadmaps=backend%2Cfrontend%2Cdata-analyst%2Csql" alt="roadmap.sh"/></a>    
-<br />
-<br />
-    
-[![BaraSedih's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BaraSedih11&theme=react)](https://github.com/BaraSedih11/github-readme-activity-graph)
-</div>
-
+    <div align="center">
+        <!-- GitHub Stats -->
+        <img width="390" src="https://github-readme-stats-private-theta.vercel.app/api?username=BaraSedih11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+        <br><br>
+        <!-- GitHub Streak -->
+        <img src="https://streak-stats.demolab.com?user=BaraSedih11&theme=react&hide_border=true&card_width=500" alt="GitHub Streak" />
+        <br><br>
+        <!-- Top Languages -->
+        <img src="https://github-readme-stats-private-theta.vercel.app/api/top-langs?username=BaraSedih11&langs_count=8&hide=css,html,pug,Gherkin&show_icons=true&locale=en&layout=compact&theme=react&exclude_repo=github-readme-stats-private" alt="barasedih11" />
+        &nbsp
+        <!-- Roadmap Badge -->
+        <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65b157d90c54812283315e35?variant=dark&roadmaps=backend%2Cfrontend%2Cdata-analyst%2Csql" alt="roadmap.sh" style="margin-left: 20px;"></a>
+        <br><br>
+        <!-- GitHub Activity Graph -->
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaraSedih11&theme=react" alt="BaraSedih's GitHub Activity Graph">
+    </div>
 </details>
-<br/><br/>
 
+<br/><br/>
 <hr/>
 
 
