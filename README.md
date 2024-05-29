@@ -131,7 +131,7 @@
         <img width="390" src="https://github-readme-stats-private-theta.vercel.app/api?username=BaraSedih11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
         <br><br>
         <!-- GitHub Streak -->
-        <img src="https://streak-stats.demolab.com?user=BaraSedih11&theme=react&hide_border=true&card_width=500" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=BaraSedih11&theme=react&hide_border=true&count_private=true&card_width=500" alt="GitHub Streak" />
         <br><br>
         <!-- Top Languages -->
         <img src="https://github-readme-stats-private-theta.vercel.app/api/top-langs?username=BaraSedih11&langs_count=8&hide=css,html,pug,Gherkin&show_icons=true&locale=en&layout=compact&theme=react&exclude_repo=github-readme-stats-private" alt="barasedih11" />
