@@ -134,7 +134,7 @@
         <img src="https://streak-stats.demolab.com?user=BaraSedih11&theme=react&hide_border=true&count_private=true&card_width=500" alt="GitHub Streak" />
         <br><br>
         <!-- Top Languages -->
-        <img src="https://github-readme-stats-private-theta.vercel.app/api/top-langs?username=BaraSedih11&langs_count=8&hide=css,html,pug,Gherkin&show_icons=true&locale=en&layout=compact&theme=react&exclude_repo=github-readme-stats-private" alt="barasedih11" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BaraSedih11&langs_count=8&hide=css,html,pug,Gherkin&show_icons=true&locale=en&layout=compact&theme=react&exclude_repo=github-readme-stats-private" alt="barasedih11" />
         &nbsp
         <!-- Roadmap Badge -->
         <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65b157d90c54812283315e35?variant=dark&roadmaps=backend%2Cfrontend%2Cdata-analyst%2Csql" alt="roadmap.sh" style="margin-left: 20px;"></a>
