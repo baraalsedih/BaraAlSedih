@@ -85,7 +85,10 @@
     <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white"></a>
     <a href="#"><img alt="SKLearn" src="https://img.shields.io/badge/SKLearn-F7931E.svg?logo=scikit-learn&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Atensorflow"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"></a>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D.svg?logo=Arduino&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Araspberrypi"><img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-A22846.svg?logo=raspberrypi&logoColor=white"></a>
+
 </p>
 
 
