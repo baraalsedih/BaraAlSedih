@@ -69,7 +69,7 @@
   </p>
 
   <p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+<!--     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> -->
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Anestjs"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
@@ -98,7 +98,7 @@
         <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000.svg?logo=oracle&logoColor=white"></a>
         <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"></a>
         <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white"></a>
-        <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+<!--         <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a> -->
         <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
     </p>
 
@@ -118,6 +118,7 @@
     <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-29B6F6.svg?logo=openai&logoColor=white"></a>
     <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?logo=anaconda&logoColor=white"></a>
     <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?logo=power%20bi&logoColor=white"></a>
     <a href="#"><img alt="uTorrent" src="https://img.shields.io/badge/uTorrent-00853F.svg?logo=utorrent&logoColor=white"></a>
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
 </p>
