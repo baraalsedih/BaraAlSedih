@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **a platform**
  
- 🌱 I’m currently learning **MERN stack and Data Science**
+ 🌱 I’m currently learning **React and Data Science**
 
 💬 Ask me about **Backend, Data Analysis, Machine Learning, problem solving questions... or any thing [here](https://github.com/BaraSedih11/BaraSedih11/issues)**
 
