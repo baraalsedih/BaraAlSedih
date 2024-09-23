@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **MERN stack and Macnhine Learning**
 
-💬 Ask me about **MERN stack, Data Analysis, Machine Learning, problem solving questions... or any thing [here](https://github.com/BaraSedih11/BaraSedih11/issues)**
+💬 Ask me about **Backend, Data Analysis, Machine Learning, problem solving questions... or any thing [here](https://github.com/BaraSedih11/BaraSedih11/issues)**
 
  </div>
 <br>
