@@ -40,7 +40,7 @@
 <hr/>
 
 <details>
-  <summary><h2>🛠️ My Skills and favorite tools</h2></summary>
+  <summary><h2>🛠️ My Skills and Favorite Tools</h2></summary>
 <br>
     
   <h3>👨‍💻 Programming Languages and Web Development</h3>
