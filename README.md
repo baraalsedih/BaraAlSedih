@@ -136,16 +136,25 @@
         <img src="https://streak-stats.demolab.com?user=BaraSedih11&theme=react&hide_border=true&count_private=true&card_width=500" alt="GitHub Streak" />
         <br><br>
         <!-- Top Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BaraSedih11&langs_count=8&hide=css,html,pug,Gherkin,Jupyter%20Notebook&show_icons=true&locale=en&layout=compact&theme=react&exclude_repo=github-readme-stats-private" alt="barasedih11" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barasedih11&theme=nord_dark&Exclude=html,css,pug,Gherkin,Jupyter%20Notebook" alt="barasedih11" />
         &nbsp
         <!-- Roadmap Badge -->
         <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65b157d90c54812283315e35?variant=dark&roadmaps=backend%2Cfrontend%2Cdata-analyst%2Csql" alt="roadmap.sh" style="margin-left: 20px;"></a>
         <br><br>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barasedih11&theme=nord_dark" alt="BaraSedih's GitHub Activity dashboard>
+        
+        
+<br /><br />
         <!-- GitHub Activity Graph -->
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaraSedih11&theme=react" alt="BaraSedih's GitHub Activity Graph">
+        <img width=2000 src="https://github-readme-activity-graph.vercel.app/graph?username=BaraSedih11&theme=react" alt="BaraSedih's GitHub Activity Graph">
     </div>
 </details>
+<br /><br />
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=barasedih11&theme=onedark&column=7&margin-w=15&margin-h=15" />
+
+</div>
 <br/><br/>
 <hr/>
 
