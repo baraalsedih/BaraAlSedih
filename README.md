@@ -147,12 +147,11 @@
     </div>
 </details>
 <br />
-
+<hr/>
+<br /><br />
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=barasedih11&theme=onedark&column=7&margin-w=15&margin-h=15" />
 </div>
-<br/><br/>
-<hr/>
 
 
 
