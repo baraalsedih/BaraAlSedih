@@ -139,15 +139,14 @@
         <img width=390 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barasedih11&theme=nord_dark&exclude=html,css,pug,Gherkin,Jupyter%20Notebook" alt="barasedih11" />
         <br><br>
         <!-- Roadmap Badge -->
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barasedih11&theme=nord_dark" alt="BaraSedih's GitHub Activity dashboard />
-        
-<br /><br />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barasedih11&theme=nord_dark" alt="BaraSedih's GitHub Activity dashboard" />
+        <br />
         <!-- GitHub Activity Graph -->
-       
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BaraSedih11&theme=react" alt="BaraSedih's GitHub Activity Graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaraSedih11&theme=react" alt="BaraSedih's GitHub Activity Graph">
+        <br /><br />
     </div>
 </details>
-<br /><br />
+<br />
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=barasedih11&theme=onedark&column=7&margin-w=15&margin-h=15" />
