@@ -143,7 +143,8 @@
         
 <br /><br />
         <!-- GitHub Activity Graph -->
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaraSedih11&theme=react" alt="BaraSedih's GitHub Activity Graph">
+       
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BaraSedih11&theme=react" alt="BaraSedih's GitHub Activity Graph">
     </div>
 </details>
 <br /><br />
