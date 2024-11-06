@@ -92,7 +92,7 @@
         <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
     </p>
 
-  <h3>💻 Hardware</h3>
+  <h3>💻 Hardware Programming</h3>
 
 <div>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Aassembly"><img alt="8086 Assembly & MIPS" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
