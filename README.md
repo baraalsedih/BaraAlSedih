@@ -58,6 +58,7 @@
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F2C811.svg?logo=javascript&color=F2C811&logoColor=black"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Areact"><img alt="ReactJS" src="https://img.shields.io/badge/React-0D3B66.svg?logo=react&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ABaraSedih11+redux"><img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+styled-components"><img alt="Styled Components" src="https://img.shields.io/badge/Styled%20Components-DB7093.svg?logo=styled-components&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Atailwindcss"><img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?logo=tailwindcss&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
