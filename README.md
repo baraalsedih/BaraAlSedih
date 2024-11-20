@@ -50,13 +50,15 @@
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-20232a.svg?logo=java&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ABaraSedih11+spring"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ABaraSedih11+spring+boot"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F2C811.svg?logo=javascript&color=F2C811&logoColor=black"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Areact"><img alt="ReactJS" src="https://img.shields.io/badge/React-0D3B66.svg?logo=react&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ABaraSedih11+styled-components"><img alt="Styled Components" src="https://img.shields.io/badge/Styled%20Components-DB7093.svg?logo=styled-components&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ABaraSedih11+styled-components"><img alt="Styled Components" src="https://img.shields.io/badge/Styled%20Components-DB7093.svg?logo=styled-components&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Atailwindcss"><img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?logo=tailwindcss&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
