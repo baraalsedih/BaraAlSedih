@@ -53,13 +53,15 @@
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-20232a.svg?logo=java&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F2C811.svg?logo=javascript&color=F2C811&logoColor=black"></a>
+      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Areact"><img alt="ReactJS" src="https://img.shields.io/badge/React-0D3B66.svg?logo=react&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ABaraSedih11+styled-components"><img alt="Styled Components" src="https://img.shields.io/badge/Styled%20Components-DB7093.svg?logo=styled-components&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Atailwindcss"><img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?logo=tailwindcss&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Aexpressjs"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Anestjs"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Areact"><img alt="ReactJS" src="https://img.shields.io/badge/React-0D3B66.svg?logo=react&logoColor=white"></a>
 
   </div>
 
@@ -91,6 +93,8 @@
         <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white"></a>
 <!--         <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a> -->
         <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Apostgresql"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3ABaraSedih11+supabase"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E.svg?logo=supabase&logoColor=white"></a>
     </p>
 
   <h3>💻 Hardware Programming</h3>
@@ -108,18 +112,13 @@
 
   <p>
     <a href="#"><img alt="Ubuntu Linux" src="https://img.shields.io/badge/Ubuntu%20Linux-1793D1.svg?logo=ubuntu&logoColor=white"></a>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB Compass" src="https://img.shields.io/badge/MongoDB%20Compass-47A248.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287.svg?logo=gitkraken&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-29B6F6.svg?logo=openai&logoColor=white"></a>
-    <a href="#"><img alt="uTorrent" src="https://img.shields.io/badge/uTorrent-00853F.svg?logo=utorrent&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
 </p>
 
 </details>
