@@ -93,11 +93,13 @@
         <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
         <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000.svg?logo=oracle&logoColor=white"></a>
 <!--         <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"></a> -->
+        <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Apostgresql"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"></a>
         <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white"></a>
 <!--         <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a> -->
         <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
-        <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Apostgresql"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"></a>
         <a href="https://github.com/search?q=user%3ABaraSedih11+supabase"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E.svg?logo=supabase&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3ABaraSedih11+netlify"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3ABaraSedih11+vercel"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
     </p>
 
   <h3>💻 Hardware Programming</h3>
