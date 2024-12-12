@@ -19,7 +19,6 @@
 
 
  <div align="center">
-       <a href="https://twitter.com/baraalsedih02"><img src="https://skillicons.dev/icons?i=twitter" /></a>
        <a href="https://www.linkedin.com/in/bara-alsedih"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
        <a href="mailto:baraalsedih@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </div>
