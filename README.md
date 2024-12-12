@@ -4,15 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bara+Al-Sedih!;" />
 </h1>
 
-<h3 align="center">Computer Engineer Student from Palestine  </h3>
+<p align="center">Computer Engineer Student At An-Najah National University, Palestine </p>
 
 <div align="center">
  
- 🔭 I’m currently working on **a platform**
+ <p>🔭 I’m currently working on freeDevelopersCamp (Learning Platform for developres)</p>
  
- 🌱 I’m currently learning **React and Data Science**
-
-💬 Ask me about **Backend, Data Analysis, Machine Learning, problem solving questions... or any thing [here](https://github.com/BaraSedih11/BaraSedih11/issues)**
+💬 Ask me about **Full-Stack, Data Analysis, Machine Learning, problem solving questions... or any thing [here](https://github.com/BaraSedih11/BaraSedih11/issues)
 
  </div>
 <br>
@@ -27,68 +25,76 @@
 
 <hr/>
 
-<details>
-  <summary><h2>🛠️ My Skills and Favorite Tools</h2></summary>
-<br>
 
- <h3>👨‍💻 Programming </h3>
-
-<div>
+<div align=>    
+ <h2>👨‍💻 Programming</h2>
     
 ![My Skills](https://skillicons.dev/icons?i=powershell,bash,md,c,cpp,java,spring)
   </div>
- 
-  <h3>👨‍💻 Full-Stack Web Development</h3>
 
-<div>
+ 
+
+<div align="">
+  <h2>👨‍💻 Full-Stack Web Development</h2>
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,php,js,ts,nodejs,express,nestjs,react,redux,nextjs,bootstrap,styledcomponents,tailwind,vite,materialui)
 
   </div>
 
-<h3>🐍 Python Development and Data Science</h3>
 
-<div>
+
+<div align="">
+<h2>🐍 Python Development and Data Science</h2>
     
 ![My Skills](https://skillicons.dev/icons?i=python,flask,opencv,sklearn,tensorflow,anaconda,selenium)
 
   </div>
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+
+<div align="">
+    
+  <h2>🗄️ Databases and Cloud Hosting</h2>
         
 ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,vercel,docker,supabase,netlify)
+</div>
 
-  <h3>🛠️ Software </h3>
+
+<div align="">
+    
+  <h2>🛠️ Software </h2>
 
 ![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,redhat,raspberrypi,arduino)
+</div>
 
-  <h3>🛠️ Tools </h3>
+
+<div align="">
+ 
+<h2>🛠️ Tools </h2>
   
   ![My Skills](https://skillicons.dev/icons?i=vscode,clion,phpstorm,webstorm,pycharm,git,github,postman,chatgpt)
-    
-<h3>💻 Hardware Programming</h3>
-<div>
-      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Aassembly"><img alt="8086 Assembly & MIPS" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3AMIPS"><img alt="MIPS" src="https://custom-icon-badges.demolab.com/badge/MIPS-FFA500.svg?logo=mips&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3AVHDL"><img alt="VHDL" src="https://custom-icon-badges.demolab.com/badge/VHDL-FF69B4.svg?logo=hdl&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3AVerilog"><img alt="Verilog" src="https://custom-icon-badges.demolab.com/badge/Verilog-008080.svg?logo=hdl&logoColor=white"></a>
-  </div>
-<h3> 🛠️ Other Tools </h3>
+    </div>
+
+<div align="">    
+
+<h2> 🛠️ Other Tools </h2>
     <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellijidea&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="MongoDB Compass" src="https://img.shields.io/badge/MongoDB%20Compass-47A248.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287.svg?logo=gitkraken&logoColor=white"></a>
     <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-29B6F6.svg?logo=openai&logoColor=white"></a>
-</p>
-
-</details>
-
+      </div>
+<div align="">
+<h2>💻 Hardware Programming</h2>
+      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3Aassembly"><img alt="8086 Assembly & MIPS" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3AMIPS"><img alt="MIPS" src="https://custom-icon-badges.demolab.com/badge/MIPS-FFA500.svg?logo=mips&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3AVHDL"><img alt="VHDL" src="https://custom-icon-badges.demolab.com/badge/VHDL-FF69B4.svg?logo=hdl&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ABaraSedih11+language%3AVerilog"><img alt="Verilog" src="https://custom-icon-badges.demolab.com/badge/Verilog-008080.svg?logo=hdl&logoColor=white"></a>
+  </div>
 
 <br>
 
-<details>
-    <summary><h2>📊 Stats and Activity</h2></summary>
+<summary><h2>📊 Stats and Activity</h2></summary>
     <div align="center">
         <!-- GitHub Stats -->
         <img width="390" src="https://github-readme-stats-private-theta.vercel.app/api?username=BaraSedih11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -106,7 +112,6 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaraSedih11&theme=react" alt="BaraSedih's GitHub Activity Graph">
         <br /><br />
     </div>
-</details>
 
 <hr/>
 <br />
