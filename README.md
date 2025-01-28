@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bara+Al-Sedih!;" />
 </h1>
 
-<p align="center">Computer Engineer Student At An-Najah National University, Palestine </p>
+<p align="center">Senior Computer Engineer Student At An-Najah National University, Palestine </p>
 
 <div align="center">
  
  <p>🔭 I’m currently working on freeDevelopersCamp (Learning Platform for developres)</p>
  
-💬 Ask me about **Full-Stack, Data Analysis, Machine Learning, problem solving questions... or any thing [here](https://github.com/BaraSedih11/BaraSedih11/issues)
+💬 Ask me about **Software Development (Full-Stack Focus), Data Science (Machine Learning Focus), Problem Solving questions... or any thing [here](https://github.com/BaraSedih11/BaraSedih11/issues)
 
  </div>
 <br>
