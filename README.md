@@ -24,6 +24,8 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFB347?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/baraalsedih/)
 [![DataCamp](https://img.shields.io/badge/DataCamp-05D764?style=for-the-badge&logo=datacamp&logoColor=black)](https://www.datacamp.com/portfolio/baraalsedih)
 [![Kaggle](https://img.shields.io/badge/Kaggle-32C5FF?style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/baraaalsedih)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD65F?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/baraalsedih)
+[![Ollama](https://img.shields.io/badge/Ollama-2E3440?style=for-the-badge&logoColor=white)](https://ollama.com/baraalsedih)
 
 </div>
 
@@ -77,14 +79,15 @@
  
 <h2>🛠️ Tools </h2>
   
-  ![My Skills](https://skillicons.dev/icons?i=vscode,clion,phpstorm,webstorm,idea,pycharm,atom,visualstudio,git,github,postman,chatgpt,stackoverflow,autocad,discord,notion,obsidian)
+  ![My Skills](https://skillicons.dev/icons?i=vscode,clion,phpstorm,webstorm,idea,pycharm,atom,visualstudio,git,github,postman,stackoverflow,autocad,discord,notion,obsidian,chatgpt)
     </div>
 
 <div align="">    
 
 <h2> 🛠️ Other Tools </h2>
-    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellijidea&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Colab"src="https://img.shields.io/badge/Colab-F9AB00.svg?logo=googlecolab&logoColor=white"></a>
+    <a href="#"><img alt="Unsloth"src="https://img.shields.io/badge/Unsloth-3B0E6E.svg?logoColor=white"></a>
     <a href="#"><img alt="MongoDB Compass" src="https://img.shields.io/badge/MongoDB%20Compass-47A248.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287.svg?logo=gitkraken&logoColor=white"></a>
