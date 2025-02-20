@@ -33,9 +33,9 @@
 
 
 <div align=>    
- <h2>👨‍💻 Programming</h2>
+ <h2>👨‍💻 Programming and Essentials</h2>
     
-![My Skills](https://skillicons.dev/icons?i=powershell,bash,md,c,cpp,java,spring)
+![My Skills](https://skillicons.dev/icons?i=powershell,bash,md,c,cpp,java,spring,maven,npm,vite,yarn,regex,latex)
   </div>
 
  
@@ -61,7 +61,7 @@
     
   <h2>🗄️ Databases and Cloud Hosting</h2>
         
-![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,vercel,docker,supabase,netlify)
+![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,vercel,docker,aws,gcp,firebase,supabase,netlify)
 </div>
 
 
@@ -77,7 +77,7 @@
  
 <h2>🛠️ Tools </h2>
   
-  ![My Skills](https://skillicons.dev/icons?i=vscode,clion,phpstorm,webstorm,pycharm,git,github,postman,chatgpt)
+  ![My Skills](https://skillicons.dev/icons?i=vscode,clion,phpstorm,webstorm,idea,pycharm,atom,visualstudio,git,github,postman,chatgpt,stackoverflow,autocad,discord,notion,obsidian)
     </div>
 
 <div align="">    
