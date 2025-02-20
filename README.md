@@ -23,6 +23,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-29B861?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/baraalsedih)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFB347?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/baraalsedih/)
 [![DataCamp](https://img.shields.io/badge/DataCamp-05D764?style=for-the-badge&logo=datacamp&logoColor=black)](https://www.datacamp.com/portfolio/baraalsedih)
+
 [![Kaggle](https://img.shields.io/badge/Kaggle-32C5FF?style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/baraaalsedih)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD65F?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/baraalsedih)
 [![Ollama](https://img.shields.io/badge/Ollama-2E3440?style=for-the-badge&logoColor=white)](https://ollama.com/baraalsedih)
