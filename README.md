@@ -52,7 +52,7 @@
 <div align="">
 <h2>🐍 Python Development and Data Science</h2>
     
-![My Skills](https://skillicons.dev/icons?i=python,flask,django,opencv,sklearn,tensorflow,anaconda,selenium)
+![My Skills](https://skillicons.dev/icons?i=python,flask,django,opencv,sklearn,tensorflow,pytorch,anaconda,selenium)
 
   </div>
 
