@@ -46,7 +46,7 @@
 <div align="">
   <h2>👨‍💻 Full-Stack Web Development</h2>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,php,js,ts,nodejs,express,nestjs,react,redux,nextjs,bootstrap,styledcomponents,tailwind,vite,materialui)
+![My Skills](https://skillicons.dev/icons?i=html,css,php,js,ts,nodejs,express,nestjs,react,redux,nextjs,bootstrap,styledcomponents,tailwind,vite)
 
   </div>
 
