@@ -80,7 +80,7 @@
  
 <h2>🛠️ Tools </h2>
   
-  ![My Skills](https://skillicons.dev/icons?i=vscode,clion,phpstorm,webstorm,idea,pycharm,atom,visualstudio,git,github,postman,stackoverflow,autocad,discord,notion,obsidian,chatgpt)
+  ![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,clion,phpstorm,webstorm,idea,pycharm,atom,git,github,postman,stackoverflow,autocad,discord,notion,obsidian,chatgpt)
     </div>
 
 <div align="">    
