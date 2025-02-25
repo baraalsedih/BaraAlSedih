@@ -113,7 +113,7 @@
         <img src="https://streak-stats.demolab.com?user=BaraSedih11&theme=react&hide_border=true&count_private=true&card_width=500" alt="GitHub Streak" />
         <br>
         <!-- Top Languages -->
-        <img width=390 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=barasedih11&theme=nord_dark&exclude=html,css,pug,Gherkin,Jupyter%20Notebook" alt="barasedih11" />
+        <img width=390 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=barasedih11&theme=nord_dark&exclude=html,css,pug,Gherkin" alt="barasedih11" />
         <br>
         <!-- Roadmap Badge -->
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barasedih11&theme=nord_dark" alt="BaraSedih's GitHub Activity dashboard" />
