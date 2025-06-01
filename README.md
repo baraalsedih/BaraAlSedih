@@ -72,7 +72,7 @@
     
   <h2>🛠️ Software </h2>
 
-![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,redhat,raspberrypi,arduino)
+![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,arch,raspberrypi,arduino)
 </div>
 
 
