@@ -64,7 +64,7 @@
     
   <h2>🗄️ Databases and Cloud Hosting</h2>
         
-![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,vercel,docker,aws,gcp,firebase,supabase,netlify)
+![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,vercel,docker,aws,firebase,supabase,netlify)
 </div>
 
 
