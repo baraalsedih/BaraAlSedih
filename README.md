@@ -1,16 +1,14 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=baraalsedih&label=Profile%20views&color=0e75b6&style=flat" alt="baraalsedih" /> </p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bara+Al-Sedih!;" />
-</h1>
+<h3 align="center">
+    Full-Stack Developer | AI/ML Engineer | React, Next.js, Node.js, NestJS, Spring Boot | Python, Flask, TensorFlow, PyTorch, LangChain, SQL | I Build AI-Integrated Web Apps
+</h3>
 
-<p align="center">Senior Computer Engineer Student At An-Najah National University, Palestine </p>
+<p align="center">Studied Computer Engineering At An-Najah National University, Palestine </p>
 
 <div align="center">
  
- <p>🔭 I’m currently working on freeDevelopersCamp (Learning Platform for developres)</p>
- 
-💬 Ask me about **Software Development (Full-Stack Focus), Data Science (Machine Learning Focus), Problem Solving questions... or any thing [here](https://github.com/baraalsedih/baraalsedih/issues)
+💬 Ask me about Full-Stack web development, or AI/ML, Problem Solving questions... or any thing [here](https://github.com/baraalsedih/baraalsedih/issues)
 
  </div>
 <br>
