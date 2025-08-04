@@ -29,6 +29,14 @@
 </div>
 
 <br>
+<hr/>
+
+I have provided repositories for each of my tech role projects:
+
+1. [AI/ML Projects](https://github.com/baraalsedih/AI-ML-Projects)
+2. [Backend Projects](https://github.com/baraalsedih/Backend-Projects)
+
+Others will be filled soon
 
 <hr/>
 
