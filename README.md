@@ -35,6 +35,10 @@ I have provided repositories for each of my tech role projects:
 
 1. [AI/ML Projects](https://github.com/baraalsedih/AI-ML-Projects)
 2. [Backend Projects](https://github.com/baraalsedih/Backend-Projects)
+3. [Frontend Projects](https://github.com/baraalsedih/Frontend-Projects)
+4. [Full-Stack Projects](https://github.com/baraalsedih/Full-Stack-Projects)
+5. [Data Analysis Projects](https://github.com/baraalsedih/Data-Analysis-Projects)
+6. [DevOps Projects](https://github.com/baraalsedih/DevOps-Projects)
 
 Others will be filled soon
 
