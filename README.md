@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=baraalsedih&label=Profile%20views&color=0e75b6&style=flat" alt="baraalsedih" /> </p>
 
 <h3 align="center">
-    Full-Stack Developer | AI/ML Engineer | React, Next.js, Node.js, NestJS, Spring Boot | Python, Flask, TensorFlow, PyTorch, LangChain, SQL | I Build AI-Integrated Web Apps
+    Full-Stack Developer & AI/ML Engineer | Data Science & Automation (n8n) | Python, Node.js, Flask, NestJS, Spring Boot | React, Next.js | PyTorch, TensorFlow, LangChain, SQL | I Build AI-Integrated Web Apps
 </h3>
 
 <p align="center">Studied Computer Engineering At An-Najah National University, Palestine </p>
