@@ -8,7 +8,7 @@
 
 <div align="center">
  
-💬 Ask me about Full-Stack web development, or AI/ML, Problem Solving questions... or any thing [here](https://github.com/baraalsedih/baraalsedih/issues)
+💬 Ask me about Full-Stack web development, or AI/ML, Problem Solving questions... or anything [here](https://github.com/baraalsedih/baraalsedih/issues)
 
  </div>
 <br>
