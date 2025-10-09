@@ -36,7 +36,7 @@
 This account is my personal and main account.  
 I have another account dedicated to my work at [iO Health](https://iohealth.com), check my work GitHub profile:
 
-👉 [**Work Portfolio (Dedicated to [iO Health](https://iohealth.com))**](https://github.com/baraalsedih2025)
+👉 [**Work Portfolio (Dedicated to iO Health)**](https://github.com/baraalsedih2025)
 
 
 ---
