@@ -31,6 +31,18 @@
 <br>
 <hr/>
 
+---
+
+
+## 📂 Portfolio Overview
+This account is my personal and main account.  
+I have another account dedicated to my work at **iO Health**, check my work GitHub profile:
+
+👉 [**Work Portfolio (Dedicated to iO Health)**](https://github.com/baraalsedih2025)
+
+
+---
+
 I have provided repositories for each of my tech role projects:
 
 1. [AI/ML Projects](https://github.com/baraalsedih/AI-ML-Projects)
