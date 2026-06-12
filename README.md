@@ -1,150 +1,74 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=baraalsedih&label=Profile%20views&color=0e75b6&style=flat" alt="baraalsedih" /> </p>
+# MLOps Engineer | ML & LLM Systems, Deployment & Observability
 
-<h3 align="center">
-    Full-Stack Developer & AI/ML Engineer | Data Science & Automation (n8n) | Python, Node.js, Flask, NestJS, Spring Boot | React, Next.js | PyTorch, TensorFlow, LangChain, SQL | I Build AI-Integrated Web Apps
-</h3>
+I build production ML & LLM systems — deployment, monitoring, and real-world AI infrastructure.
 
-<p align="center">Studied Computer Engineering At An-Najah National University, Palestine </p>
+Currently at iO Health. Open to freelance ML, LLM, and MLOps projects.
 
-<div align="center">
- 
-💬 Ask me about Full-Stack web development, or AI/ML, Problem Solving questions... or anything [here](https://github.com/baraalsedih/baraalsedih/issues)
-
- </div>
-<br>
-
-
- <div align="center">
-     
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baraalsedih@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bara-alsedih)
-[![HackerRank](https://img.shields.io/badge/HackerRank-29B861?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/baraalsedih)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFB347?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/baraalsedih/)
-[![DataCamp](https://img.shields.io/badge/DataCamp-05D764?style=for-the-badge&logo=datacamp&logoColor=black)](https://www.datacamp.com/portfolio/baraalsedih)
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-32C5FF?style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/baraaalsedih)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD65F?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/baraalsedih)
-[![Ollama](https://img.shields.io/badge/Ollama-2E3440?style=for-the-badge&logoColor=white)](https://ollama.com/baraalsedih)
-
-</div>
-
-<br>
-<hr/>
-
-
-## 📂 Portfolio Overview
-This account is my personal and main account.  
-I have another account dedicated to my work at [iO Health](https://iohealth.com), check my work GitHub profile:
-
-👉 [**Work Portfolio (Dedicated to iO Health)**](https://github.com/baraalsedih2025)
-
+📧 [baraalsedih@gmail.com](mailto:baraalsedih@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bara-alsedih/) · [Portfolio](https://baraalsedih.netlify.app/)
 
 ---
 
-I have provided repositories for each of my tech role projects:
+## 🧠 Atlas AI — ML & LLM Systems Hub
 
-1. [AI/ML Projects](https://github.com/baraalsedih/AI-ML-Projects)
-2. [Backend Projects](https://github.com/baraalsedih/Backend-Projects)
-3. [Frontend Projects](https://github.com/baraalsedih/Frontend-Projects)
+A modular collection of ML, MLOps, and LLM systems focused on production-style engineering, system design, and reusable AI infrastructure.
 
-Others will be filled soon
+All of my work are in this org: https://github.com/VigilantMLOps
 
-<hr/>
+---
 
+## 🧩 Projects
 
-<div align=>    
- <h2>👨‍💻 Programming and Essentials</h2>
-    
-![My Skills](https://skillicons.dev/icons?i=powershell,bash,md,c,cpp,java,spring,maven,npm,vite,yarn,regex,latex)
-  </div>
+### 🛡️ Atlas MLOps — Observability Platform
 
- 
+MLOps + LLMOps observability system for monitoring ML and LLM systems in production-style environments.
 
-<div align="">
-  <h2>👨‍💻 Full-Stack Web Development</h2>
+* Model performance monitoring
+* Data drift detection and alerting design
+* LLM monitoring for RAG and prompt-based systems (quality, latency, tokens)
+* Incident routing (auto vs manual escalation)
 
-![My Skills](https://skillicons.dev/icons?i=html,css,php,js,ts,nodejs,express,nestjs,react,redux,nextjs,bootstrap,styledcomponents,tailwind,vite)
+---
 
-  </div>
+### 🔍 Atlas RAG
 
+Retrieval-Augmented Generation system built over a personal knowledge base.
 
+* Document ingestion and chunking pipeline
+* Vector-based retrieval system
+* Context-aware response generation
 
-<div align="">
-<h2>🐍 Python Development and Data Science</h2>
-    
-![My Skills](https://skillicons.dev/icons?i=python,flask,django,opencv,sklearn,tensorflow,pytorch,anaconda,selenium)
+---
 
-  </div>
+### 🚨 Atlas Detect
 
+ML system design for account takeover (ATO) / anomaly detection.
 
-<div align="">
-    
-  <h2>🗄️ Databases and Cloud Hosting</h2>
-        
-![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,vercel,docker,aws,firebase,supabase,netlify)
-</div>
+* Fraud detection pipeline design
+* Feature engineering and modeling workflow
+* Production-style ML architecture
 
+---
 
-<div align="">
-    
-  <h2>🛠️ Software </h2>
+### ⚙️ Atlas Pack
 
-![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,arch,raspberrypi,arduino)
-</div>
+CLI tool that starts all components of an ML/LLM application (API, model service, and dependencies) and blocks until everything is running and healthy.
 
+* Spins up backend API, model services, and required infrastructure
+* Manages startup order and dependencies automatically
+* Waits for health checks to confirm every service is running
+* Prints a “ready” state when the full system is operational
 
-<div align="">
- 
-<h2>🛠️ Tools </h2>
-  
-  ![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,clion,phpstorm,webstorm,idea,pycharm,atom,git,github,postman,stackoverflow,discord,notion,obsidian)
-    </div>
+---
 
-<div align="">    
+## 🧰 Tech Stack
 
-<h2> 🛠️ Other Tools </h2>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Colab"src="https://img.shields.io/badge/Colab-F9AB00.svg?logo=googlecolab&logoColor=white"></a>
-    <a href="#"><img alt="Unsloth"src="https://img.shields.io/badge/Unsloth-3B0E6E.svg?logoColor=white"></a>
-    <a href="#"><img alt="MongoDB Compass" src="https://img.shields.io/badge/MongoDB%20Compass-47A248.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287.svg?logo=gitkraken&logoColor=white"></a>
-    <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-29B6F6.svg?logo=openai&logoColor=white"></a>
-      </div>
-<div align="">
-<h2>💻 Hardware Programming</h2>
-      <a href="https://github.com/search?q=user%3Abaraalsedih+language%3Aassembly"><img alt="8086 Assembly & MIPS" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Abaraalsedih+language%3AMIPS"><img alt="MIPS" src="https://custom-icon-badges.demolab.com/badge/MIPS-FFA500.svg?logo=mips&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Abaraalsedih+language%3AVHDL"><img alt="VHDL" src="https://custom-icon-badges.demolab.com/badge/VHDL-FF69B4.svg?logo=hdl&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Abaraalsedih+language%3AVerilog"><img alt="Verilog" src="https://custom-icon-badges.demolab.com/badge/Verilog-008080.svg?logo=hdl&logoColor=white"></a>
-  </div>
+Python + FastAPI + Docker + MLflow + AWS + LLM APIs
 
-<br>
+---
 
-<summary><h2>📊 Stats and Activity</h2></summary>
-    <div align="center">
-        <!-- GitHub Stats -->
-        <img width="390" src="https://github-readme-stats-private-theta.vercel.app/api?username=baraalsedih&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-        <br>
-        <!-- GitHub Streak -->
-        <img src="https://streak-stats.demolab.com?user=baraalsedih&theme=react&hide_border=true&count_private=true&card_width=500" alt="GitHub Streak" />
-        <br>
-        <!-- Top Languages -->
-        <img width=390 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baraalsedih&theme=nord_dark&exclude=html,css,pug,Gherkin" alt="baraalsedih" />
-        <br>
-        <!-- Roadmap Badge -->
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baraalsedih&theme=nord_dark" alt="BaraSedih's GitHub Activity dashboard" />
-        <br />
-        <!-- GitHub Activity Graph -->
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=baraalsedih&theme=react" alt="BaraSedih's GitHub Activity Graph">
-        <br /><br />
-    </div>
+## 🎯 Focus Areas
 
-<hr/>
-<br />
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=baraalsedih&theme=onedark&column=7&margin-w=15&margin-h=15" />
-</div>
-
-
-
+* Production ML & LLM systems (deployment, scaling, reliability)
+* MLOps & observability systems (monitoring, drift, alerting)
+* LLM applications (RAG, pipelines, AI workflows)
+* Backend infrastructure for AI systems (FastAPI, Docker, AWS)
