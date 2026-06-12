@@ -12,7 +12,7 @@ Currently at iO Health. Open to freelance ML, LLM, and MLOps projects.
 
 A modular collection of ML, MLOps, and LLM systems focused on production-style engineering, system design, and reusable AI infrastructure.
 
-All of my work are in this org: https://github.com/VigilantMLOps
+All of my work are in this org: [Atlas AI](https://github.com/VigilantMLOps)
 
 ---
 
