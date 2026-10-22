@@ -1,6 +1,8 @@
 # MLOps Engineer | ML & LLM Systems, Deployment & Observability
 
-I build production ML & LLM systems — deployment, monitoring, and real-world AI infrastructure.
+I build production ML & LLM systems: deployment, monitoring, and real-world AI infrastructure.
+
+I keep you updated, flag issues early, and own the delivery end-to-end.
 
 Currently at iO Health. Open to freelance ML, LLM, and MLOps projects.
 
@@ -8,17 +10,17 @@ Currently at iO Health. Open to freelance ML, LLM, and MLOps projects.
 
 ---
 
-## 🧠 Atlas AI — ML & LLM Systems Hub
+## 🧠 Atlas AI: ML & LLM Systems Hub
 
 A modular collection of ML, MLOps, and LLM systems focused on production-style engineering, system design, and reusable AI infrastructure.
 
-All of my work are in this org: [Atlas AI](https://github.com/VigilantMLOps)
+All my work is in this org: [Atlas AI](https://github.com/VigilantMLOps)
 
 ---
 
 ## 🧩 Projects
 
-### 🛡️ Atlas MLOps — Observability Platform
+### 🛡️ Atlas MLOps: Observability Platform
 
 MLOps + LLMOps observability system for monitoring ML and LLM systems in production-style environments.
 
@@ -41,7 +43,7 @@ Retrieval-Augmented Generation system built over a personal knowledge base.
 
 ### 🚨 Atlas Detect
 
-ML system design for account takeover (ATO) / anomaly detection.
+ML system design for account takeover (ATO) and anomaly detection.
 
 * Fraud detection pipeline design
 * Feature engineering and modeling workflow
@@ -56,7 +58,7 @@ CLI tool that starts all components of an ML/LLM application (API, model service
 * Spins up backend API, model services, and required infrastructure
 * Manages startup order and dependencies automatically
 * Waits for health checks to confirm every service is running
-* Prints a “ready” state when the full system is operational
+* Prints a "ready" state when the full system is operational
 
 ---
 
@@ -72,3 +74,11 @@ Python + FastAPI + Docker + MLflow + AWS + LLM APIs
 * MLOps & observability systems (monitoring, drift, alerting)
 * LLM applications (RAG, pipelines, AI workflows)
 * Backend infrastructure for AI systems (FastAPI, Docker, AWS)
+
+---
+
+## 🤝 Let's Work Together
+
+I'd rather show than tell. My work is public.
+
+Have a project in mind? [Email me](mailto:baraalsedih@gmail.com) and let's schedule a quick call.
